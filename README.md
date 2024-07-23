@@ -1,7 +1,7 @@
 # Reactjs Custom Fetch Hooks
 
 <div height="200px" width="200px" align="center">  
-    <img src="https://github.com/user-attachments/assets/32b8e0a2-e0a4-4bbd-8525-03dc1c289312" height="300px" width="400px" align="center"/>  
+    <img src="https://github.com/user-attachments/assets/32b8e0a2-e0a4-4bbd-8525-03dc1c289312" height="300px" width="100%" align="center"/>  
 </div>
 
 ### Usage and Installation
