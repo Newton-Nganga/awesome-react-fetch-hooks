@@ -13,7 +13,7 @@ Lastly execute this command to clean up the directory:
 cd hooks/ ; sudo rm -r .git/
 ```
 
-And vwalaah! you can now import the hooks where you need them.
+And viola! you can now import the hooks where you need them.
 
 ### Preliquisites
 - Be using Reactjs or Vite
